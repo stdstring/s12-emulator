@@ -1,0 +1,13 @@
+    SWA-ALARM HANDLING
+
+       DISPLAY-ACTIVE-ALARMS                                          SUCCESSFUL
+       -------------------------------------------------------------------------
+       WITH OPTION ALL
+       ACTIVE ALMCAT = NORMAL
+       ---------------------------------
+
+       SBL ALARMS
+       CAT  I SOURCE+ALMTIME   SBLALM   NA    SBLNBR  RITPOSIT   ERRT  ALM-QUAL
+       NURG   0+11-28 15:26:15 SLIF     0036  88      1 B             
+
+       LAST REPORT          NO = 00011

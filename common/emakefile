@@ -1,0 +1,14 @@
+{'command_parser_builder', [warnings_as_errors]}.
+{'config_builder', [warnings_as_errors]}.
+{'data_portion_fsm', [warnings_as_errors]}.
+{'dataportion_output_builder', [warnings_as_errors]}.
+{'delay_output_builder', [warnings_as_errors]}.
+{'logging_helper', [warnings_as_errors]}.
+{'logic_fsm', [warnings_as_errors]}.
+{'miscellaneous_utils', [warnings_as_errors]}.
+{'output_builder', [warnings_as_errors]}.
+{'param_output_builder', [warnings_as_errors]}.
+{'telnet_server', [warnings_as_errors]}.
+{'template_parser', [warnings_as_errors]}.
+{'template_parser_fsm', [warnings_as_errors]}.
+{'timestamp_output_builder', [warnings_as_errors]}.

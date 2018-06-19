@@ -1,0 +1,14 @@
+    SWA-ALARM HANDLING
+
+       DISPLAY-ACTIVE-ALARMS                                          SUCCESSFUL
+       -------------------------------------------------------------------------
+       WITH OPTION ALL
+       ACTIVE ALMCAT = NORMAL
+       ---------------------------------
+
+       DIRECT ALARMS
+       CAT  I SOURCE+ALMTIME   DIRALM   NA    ALMNBR  RITPOSIT   REPC
+       NURG   0+10-18 14:01:42 TRSLIPH  1101  1                  4643
+
+       LAST REPORT          NO = 00011
+

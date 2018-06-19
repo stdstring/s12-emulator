@@ -1,0 +1,8 @@
+[
+{getAlarms, [{daa0001, 1, []},{daa0002, 1, []}]},
+{getN7Alarms, [{d7a0000, 1, []},{d7a0001, 1, []}]},
+{lmV7, [{erm0001, 1,[]}]},
+{msV7on, [{ms0001, 1, []}]},
+{msV7off, [{ms0002, 1, []}]},
+{unknown_command, [{unknown_echo, 1, []}]}
+].

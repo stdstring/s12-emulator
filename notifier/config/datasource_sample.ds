@@ -1,0 +1,6 @@
+yy {number} yyy {result}
+xxx {number} xxx {result} xxx {timestamp(DD+MM-YY---hh:mm:ss:ms)} xxxxxx
+LAST REPORT          NO = 04314   \r\n{delay(15,20)}
+zzzzzzzzzzzzzzz
+www {number} {result} wwwwww {timestamp(DD+MM-YY---hh:mm:ss:ms)} ww
+    LAST REPORT          NO = 00011\r\n{delay(15,20)}

@@ -1,0 +1,5 @@
+[
+{editmode_timeout, 20000},
+{session_timeout, 60000},
+{connection_lifetime, 120000}
+].

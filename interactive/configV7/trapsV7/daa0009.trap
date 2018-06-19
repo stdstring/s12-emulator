@@ -1,0 +1,24 @@
+    ALARM CONTROL
+       DISPLAY-ACTIVE-ALARMS                                        SUCCESSFUL
+       ACTIVE ALARM CATEGORY = NORMAL 
+       -----------------------------------------------------------------------
+       SPECIAL ALARMS
+       CAT ALMSOURCE+TIME   MAIALM        ALMNBR(HEX)      REPCOD         
+       *** 0+12-29 13:31:25 DURO     1601 F                 7703
+       *** 0+12-29 18:53:04 DURO     1630 16                7703
+       *** 0+12-29 19:39:13 DURO     843C 8                 7703
+           0+12-29 07:00:27 RATEIND1      1                  141
+        ** 0+12-29 16:33:55 MLCU          4025                 8
+        ** 0+12-29 18:24:30 MLCU          5A1C                 8
+        ** 0+12-29 18:26:35 MLCU          5A99                 8
+        ** 0+12-29 09:59:05 MLCU          8C3B                 8
+        ** 0+12-29 19:29:59 MLCU          6976                 8
+       RSU ALARMS
+       CAT ALMSOURCE+TIME   DIRALM   NA   ALMNBR  RITPOSIT REPCOD RSU-ID  
+        ** 0+12-29 19:28:46 RSUREER5 8021   4    93 G 4 33   4607 1  
+       DIRECT ALARMS
+       CAT ALMSOURCE+TIME   DIRALM   NA   ALMNBR           REPCOD         
+        ** 0+12-29 17:57:31 TRSLIPH  1621 1                  4643
+        ** 0+12-29 11:31:03 TRSLIPH  0732 1                  4643
+
+       LAST REPORT          NO = 00011

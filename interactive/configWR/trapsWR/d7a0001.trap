@@ -1,0 +1,22 @@
+    SWA-ORJ-MTP
+
+       DISPLAY-N7-ALARMS                                              SUCCESSFUL
+       -------------------------------------------------------------------------
+       OPERATOR INPUT:
+        OPTION   = LINK
+        LKSET    = ALL
+       -----------------------------------------------------------------------
+       RESULT:
+
+         LKSET    LOGNET           DEST
+         -------- ---------------- -----------
+         3        LOCAL              563
+
+       ALARM CATEGORY: STATUS ALARM
+
+         LKSET    SLC  +-CCSMEN-+ +DTMEN---+ ALMTYP  ALMTIME  ALMDATE
+                       PCE    TN  PCE    TN
+         -------- --- ------ ---  ------ --- ------- -------- ----------
+         3          0 H'0633   2  H'0012  16 SURG    11:30:07 2011-10-27
+
+       LAST REPORT          NO = 04314

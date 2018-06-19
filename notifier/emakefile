@@ -1,0 +1,4 @@
+{'console', [warnings_as_errors]}.
+{'telnet_server_app', [warnings_as_errors]}.
+{'telnet_server_initializer', [warnings_as_errors]}.
+{'telnet_server_worker', [warnings_as_errors]}.

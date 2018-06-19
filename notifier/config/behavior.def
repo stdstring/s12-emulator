@@ -1,0 +1,4 @@
+[
+{go, [{check_echo, 2, [{"number", "500"}, {"result", "123"}]}]},
+{unknown_command, [{unknown_echo, 1, []}]}
+].

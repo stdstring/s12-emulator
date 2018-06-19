@@ -1,0 +1,7 @@
+[
+{getAlarms, "getAlarms.def"},
+{getN7Alarms, "getN7Alarms.def"},
+{lmWR, "lmWR.def"},
+{msWRon, "msWRon.def"},
+{msWRoff, "msWRoff.def"}
+].

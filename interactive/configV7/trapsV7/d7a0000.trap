@@ -1,0 +1,16 @@
+    N7 ALARM HANDLING
+       
+       DISPLAY-N7-ALARMS                                            SUCCESSFUL
+                                                               LAST REPORT   1
+       -----------------------------------------------------------------------
+       OWN PC: 1  56 1        SSF: INTAL1
+       
+       OPERATOR INPUT:
+       
+         OPTION  = LINK:
+         ALMTYPE = ALL   
+       
+       -----------------------------------------------------------------------
+       RESULT:NO LINK ALARMS FOUND
+
+       LAST REPORT          NO = 04314

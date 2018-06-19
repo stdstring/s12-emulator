@@ -1,0 +1,39 @@
+    SWA-ALARM HANDLING
+
+       DISPLAY-ACTIVE-ALARMS                                          SUCCESSFUL
+       -------------------------------------------------------------------------
+       WITH OPTION ALL
+       ACTIVE ALMCAT = NORMAL
+       ---------------------------------
+
+       SBL ALARMS
+       CAT  I SOURCE+ALMTIME   SBLALM   NA    SBLNBR  RITPOSIT   ERRT  ALM-QUAL
+       URG    0+10-19 05:47:40 DISC     000C  2       1 A        1766
+
+       EXTERNAL SBL ALARMS
+       CAT  I SOURCE+ALMTIME   DIRALM   NA    ALMNBR             ERRT  ALM-QUAL
+       NURG   0+10-19 00:58:34 SLIX     0621  594                964    964
+       NURG   0+10-19 01:16:51 SLIX     0130  191                964    964
+
+       SUMMARY OF AVALANCHE ALARM TYPES
+       CAT  I SOURCE+ALMTIME   DIRALM                     REPC
+       NURG   0+10-19 00:40:20 SLIP                       4962
+
+       DIRECT ALARMS
+       CAT  I SOURCE+ALMTIME   DIRALM   NA    ALMNBR  RITPOSIT   REPC
+       NURG   0+10-18 14:01:42 TRSLIPH  1101  1                  4643
+
+       AVALANCHE ALARMS
+       CAT  I SOURCE+ALMTIME   DIRALM   NA    ALMNBR  RITPOSIT   REPC  DEN  STUP
+       NURG   1+10-19 00:40:20 SLIP     0532  1                  4643  98    0
+       NURG   1+10-19 00:43:45 SLIP     1032  1                  4643  150   0
+       NURG   1+10-19 00:40:21 SLIP     0613  1                  4643  110   0
+       NURG   1+10-19 00:43:32 SLIP     0512  1                  4643  93    0
+       NURG   1+10-19 00:44:38 SLIP     0321  1                  4643  56    0
+       NURG   1+10-19 00:44:57 SLIP     0332  1                  4643  62    0
+       NURG   1+10-19 00:45:17 SLIP     0320  1                  4643  55    0
+       NURG   1+10-19 00:45:58 SLIP     1103  1                  4643  154   0
+       NURG   1+10-19 00:46:33 SLIP     0514  1                  4643  95    0
+       NURG   1+10-19 00:46:42 SLIP     1020  1                  4643  146   0
+
+       LAST REPORT          NO = 00011

@@ -1,0 +1,26 @@
+    SWA-ALARM HANDLING
+
+       DISPLAY-ACTIVE-ALARMS                                          SUCCESSFUL
+       -------------------------------------------------------------------------
+       WITH OPTION ALL
+       ACTIVE ALMCAT = NORMAL
+       ---------------------------------
+
+       SBL ALARMS
+       CAT  I SOURCE+ALMTIME   SBLALM   NA    SBLNBR  RITPOSIT   ERRT  ALM-QUAL
+       URG    0+10-18 00:30:15 DISC     000C  2       1 A        1766
+       NURG   0+10-18 00:35:59 ERSO     001D  3       1 A        839
+       NURG   0+10-18 00:35:60 ERSO     001D  4       1 A        839
+       NURG   0+10-18 00:36:00 ERSO     001C  3       1 A        839
+       NURG   0+10-18 00:36:01 ERSO     001C  4       1 A        839
+       NURG   0+10-18 00:36:10 ASST     000C  9      51 A        566
+
+       SBL GROUP ALARMS
+       CAT  I SOURCE+ALMTIME   GRPALM        GRPIND/ALMNBR=LCE       ALM-QUAL
+       URG    0+10-18 00:35:61 ERSO          1
+
+       DIRECT ALARMS
+       CAT  I SOURCE+ALMTIME   DIRALM   NA    ALMNBR  RITPOSIT   REPC
+       NURG   0+10-18 14:01:42 TRSLIPH  1101  1                  4643
+
+       LAST REPORT          NO = 00011

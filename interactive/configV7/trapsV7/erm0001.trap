@@ -1,0 +1,42 @@
+    TESTING
+       REQ MANUAL TEST                                              SUCCESSFUL
+       -----------------------------------------------------------------------
+       NA      = H'0436      NBR = 3          DN = 4957913330
+       DEVTYPE = ALCN
+       SBLTYPE = SLIF
+
+       TSEGMENT = 20                NBRLOOPS = 1                SEGMENT PASSED
+       MEASURED VALUES :
+                         POT DC              POT AC
+       A-GND         -   2,00  MVOLT            58,50  MVOLT
+       B-GND         -   2,00  MVOLT            58,50  MVOLT
+       A-B           -   1,00  MVOLT             2,00  MVOLT
+                           RES                 CAP
+       A-GND         >   5,00  MOHM             15,47  NFAR
+       B-GND         >   5,00  MOHM             15,47  NFAR
+       A-B           >   5,00  MOHM            871,70  NFAR
+
+       REF TO DIAL INPUT SEQ = 7885
+
+       REPORT FOLLOWS       NO = 04243
+    >$
+
+
+    ATS-791 EXT.      2011-10-26  12:13:32  WE
+    128  0130/0426/0003
+    SEQ=7885.111026 00527  P7M503
+    SUBSCRIBER LINE TEST
+       COMMAND ENTERED: EXE-REQ-MT                                 SUCCESSFUL
+       ----------------------------------------------------------------------
+       FAST VERIFY (20)
+
+       UNIT UNDER TEST:
+       EN    = H'0436  &  3
+       DN    = 4957913330
+       SUBSCRIBER TYPE =  ANALOGUE
+
+       TEST COMMENTS:
+
+         RESULT= TEST EXEC. OK ,  ENVIRONMENT      DIS-ESTABLISHED
+
+       LAST REPORT          NO = 00527

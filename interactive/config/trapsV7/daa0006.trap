@@ -1,0 +1,33 @@
+   ALARM CONTROL
+       DISPLAY-ACTIVE-ALARMS                                        SUCCESSFUL
+       ACTIVE ALARM CATEGORY = NORMAL 
+       -----------------------------------------------------------------------
+       SBL ALARMS
+       CAT ALMSOURCE+TIME   SBLALM   NA   SBLNBR  RACKID   ERRTYP ALM-QUAL
+       <<< 0+09-22 01:53:58 CTLE     1022 1       2 C             CE12SO  
+        ** 0+09-23 08:30:18 SLIF     0001 204     1 C            
+        ** 0+06-01 10:52:07 DTCL     1621 1       2 J            
+        ** 0+12-29 09:16:06 ASST     000C 12     62 B         766
+        ** 0+12-15 14:01:17 ASPT     000C 14     51 C         566
+        ** 0+11-28 20:05:45 ERSO     001D 2       1 J         842
+        ** 0+11-28 20:05:46 ERSO     001C 2       1 J         842
+        ** 0+09-22 01:46:10 DTCL     1022 1       2 C         120
+        ** 0+08-25 12:58:45 DTCL     1726 1       2 K        1157
+       SPECIAL ALARMS
+       CAT ALMSOURCE+TIME   MAIALM        ALMNBR(HEX)      REPCOD         
+       *** 0+12-19 14:49:53 DURO     1323 24                7703
+       *** 0+12-19 14:58:08 DURO     1532 6                 7703
+           0+12-19 08:00:27 RATEIND1      0                  141
+        ** 0+04-26 12:21:55 002      A                    6
+        ** 0+03-24 16:01:44 CORRCNTR      1                 4359
+       DIRECT ALARMS
+       CAT ALMSOURCE+TIME   DIRALM   NA   ALMNBR           REPCOD         
+       <<< 0+05-26 14:37:11 LFA      1621 1                  4643
+        ** 0+12-19 13:29:06 TRSLIPH  1033 1                  4643
+        ** 0+12-19 14:00:03 TRSLIPH  1120 1                  4643
+        ** 0+12-19 12:23:48 TRSLIPH  0412 1                  4643
+        ** 0+12-19 12:09:09 TRSLIPH  0411 1                  4643
+        ** 0+12-03 10:52:40 RSA      1120 1                  4643
+        ** 0+09-26 22:39:19 NRJA     1603 1                  4643
+
+       LAST REPORT          NO = 00011

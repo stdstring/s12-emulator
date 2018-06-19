@@ -1,0 +1,4 @@
+[
+{check_command, "check_command.def"},
+{update_command, "update_command.def"}
+].

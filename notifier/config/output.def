@@ -1,0 +1,4 @@
+[
+{check_echo, "check_echo_output.def"},
+{unknown_echo, "unknown_echo_output.def"}
+].

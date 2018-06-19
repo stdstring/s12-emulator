@@ -1,0 +1,15 @@
+    ALARM CONTROL
+       DISPLAY-ACTIVE-ALARMS                                        SUCCESSFUL
+       ACTIVE ALARM CATEGORY = NORMAL 
+       -----------------------------------------------------------------------
+       SPECIAL ALARMS
+       CAT ALMSOURCE+TIME   MAIALM        ALMNBR(HEX)      REPCOD         
+       *** 0+11-17 10:54:24 DURO     1125                  7703
+           0+11-17 08:00:21 RATEIND1      1                  141
+       DIRECT ALARMS
+       CAT ALMSOURCE+TIME   DIRALM   NA   ALMNBR           REPCOD         
+         * 0+11-17 08:35:38 TRSLIPH  0525 1                  4643
+         * 0+11-17 09:08:02 TRSLIPH  0215 1                  4643
+         * 0+11-17 10:46:42 TRSLIPH  0515 1                  4643
+
+       LAST REPORT          NO = 00011

@@ -1,0 +1,25 @@
+    SWA-ORJ-SAD ITF+SPSRV
+
+       DISPLAY-SINGLE-SUBSCR                                          SUCCESSFUL
+       -------------------------------------------------------------------------
+       AREACODE = 498
+       DN       = 4984840999
+
+       LCEID    = H'4850
+       NA       = H'527
+       LAN      = 232
+       SUBTYP   = ASUBS
+
+       COL      = ORDIN
+       SUBGRP   = SUBGNBR: SUBG04   ORGCH  : 000 ORGRTG : 000
+
+       OBSERV   = PROV     ORIG     DIR      EXTREP
+                  PROV     TERM     DIR      EXTREP
+       CF       = MAX    : 5
+       ECT      = PROV     3
+       SDT
+       LINECHAR = RECALL
+                  SUBSIG   CBSET
+       ALMCALL  = DAILYPROV
+
+       LAST REPORT          NO = 06561

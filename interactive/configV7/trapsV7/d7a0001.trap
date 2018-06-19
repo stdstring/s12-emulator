@@ -1,0 +1,20 @@
+    N7 ALARM HANDLING
+
+       DISPLAY-N7-ALARMS                                            SUCCESSFUL
+                                                               LAST REPORT   1
+       -----------------------------------------------------------------------
+       OWN PC:  8025          SSF: LOCAL
+
+       OPERATOR INPUT:
+
+         OPTION  = LINK:
+         ALMTYPE = ALL
+
+       -----------------------------------------------------------------------
+       RESULT:
+
+       DESTINATION      SSF    LKSET SLC PCE    TN TYPE   DATE       TIME
+       ---------------- ------ ----- --- ------ -- ------ ---------- --------
+         563            LOCAL      1   0 H'0116  1 NONURG 2011-11-7  14:50:54
+
+       LAST REPORT          NO = 04314

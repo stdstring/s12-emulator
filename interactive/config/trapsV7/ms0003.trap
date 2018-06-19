@@ -1,0 +1,71 @@
+    SUBSCRIBER ADMINISTRATION
+       
+       MODIFY SUBSCR                                               SUCCESSFUL
+                                                           RESULT PART    1 +
+       ----------------------------------------------------------------------
+       
+       PREVIOUS STATUS :
+         
+       EN PHYS (LOG)            DN                 A/I  MSN   GDN           
+
+       -----------------------  ----------------   ---  ----  ---------------
+       H2    (H6120) & 124    4942621238          A       
+                                                                         
+       BCAUTH :  SPEECH    AUD_3_1K
+       
+       SERVICES :
+                                                                         
+         SUBGRP   :  10   
+         SUBSIG   :  CBSET   
+         INHIBIT  :  CCBSREAT  CCNRREAT
+         SUBCTRL  :  AC24HOUR
+         COL      :  NORMSUB 
+         OBSERV   :  ORGOBS    DIRECT  
+                     TOBS      DIRECT    0  
+         BLNGLEV  :  0    
+         MAXCFWD  :  CFWDU     1    
+                     CFWDFIXA  1    
+                     CFWDBSUB  1    
+                     CFWDNOR   1    
+                     DEFLECT   1    
+
+       REPORT FOLLOWS       NO = 04263
+
+
+    AMTS KOSTROMA     2012-02-17  14:48:06  FR      
+    003  0005/000D/0011  
+    SEQ=1613.120217 04263  P7M503  
+    SUBSCRIBER ADMINISTRATION
+       
+       MODIFY SUBSCR                                               SUCCESSFUL
+                                                          FINAL RESULT    2 -
+       ----------------------------------------------------------------------
+       
+       ACTUAL STATUS :
+         
+       EN PHYS (LOG)            DN                 A/I  MSN   GDN           
+
+       -----------------------  ----------------   ---  ----  ---------------
+       H2    (H6120) & 124    4942621238          A       
+                                                                         
+       BCAUTH :  SPEECH    AUD_3_1K
+       
+       SERVICES :
+                                                                         
+         SUBGRP   :  10   
+         SUBSIG   :  CBSET   
+         INHIBIT  :  CCBSREAT  CCNRREAT
+         SUBCTRL  :  AC24HOUR
+         COL      :  NORMSUB 
+         OBSERV   :  ORGOBS    DIRECT  
+                     TOBS      DIRECT    0  
+         OCB      :  PERM      1  
+         ICB      :  PERM    
+         BLNGLEV  :  0    
+         MAXCFWD  :  CFWDU     1    
+                     CFWDFIXA  1    
+                     CFWDBSUB  1    
+                     CFWDNOR   1    
+                     DEFLECT   1    
+
+       LAST REPORT          NO = 04263

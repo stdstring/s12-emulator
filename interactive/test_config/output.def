@@ -1,0 +1,6 @@
+[
+{check_echo, "check_echo_output.def"},
+{update_success_echo, "update_success_echo_output.def"},
+{update_fail_echo, "update_fail_echo_output.def"},
+{unknown_echo, "unknown_echo_output.def"}
+].

@@ -1,0 +1,14 @@
+[
+{handshake_message, ""},
+{read_mode_prompt, ">"},
+{edit_mode_prompt, "<"},
+{edit_mode_message, "in edit mode\r\n"},
+{edit_mode_command, "mm"},
+{wrong_command_message, "wrong command !!!\r\n"},
+{bye_command, "bye"},
+{bye_message, "Bye, commander\r\n"},
+{userid_message, "USERID:"},
+{pwd_message, "PASSWORD:"},
+{login_successful_message, ""},
+{login_failed_message, ""}
+].

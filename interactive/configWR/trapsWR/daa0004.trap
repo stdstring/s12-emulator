@@ -1,0 +1,22 @@
+    SWA-ALARM HANDLING
+
+       DISPLAY-ACTIVE-ALARMS                                          SUCCESSFUL
+       -------------------------------------------------------------------------
+       WITH OPTION ALL
+       ACTIVE ALMCAT = NORMAL
+       ---------------------------------
+
+       SPECIAL ALARMS
+       CAT  I SOURCE+ALMTIME   DIRALM   NA    ALMNBR             REPC
+       URG  < 0+04-29 15:48:31 UPOW           1                  6
+       NURG < 0+04-29 15:48:32 NPOW           1                  6
+
+       SUMMARY OF AVALANCHE ALARM TYPES
+       CAT  I SOURCE+ALMTIME   DIRALM                     REPC
+       NURG   0+11-08 01:51:00 SLIP                       4962
+
+       AVALANCHE ALARMS
+       CAT  I SOURCE+ALMTIME   DIRALM   NA    ALMNBR  RITPOSIT   REPC  DEN  STUP
+       NURG   1+11-08 01:51:05 SLIP     0201  1                  4643  31    0
+
+       LAST REPORT          NO = 00011

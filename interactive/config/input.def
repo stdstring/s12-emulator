@@ -1,0 +1,7 @@
+[
+{getAlarms, "getAlarms.def"},
+{getN7Alarms, "getN7Alarms.def"},
+{lmV7, "lmV7.def"},
+{msV7on, "msV7on.def"},
+{msV7off, "msV7off.def"}
+].

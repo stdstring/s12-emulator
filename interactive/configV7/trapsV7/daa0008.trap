@@ -1,0 +1,15 @@
+    ALARM CONTROL
+       DISPLAY-ACTIVE-ALARMS                                        SUCCESSFUL
+       ACTIVE ALARM CATEGORY = NORMAL 
+       -----------------------------------------------------------------------
+       EXTERNAL ALARMS
+       CAT ALMSOURCE+TIME   MAIALM   NA   ALMNBR           REPCOD         
+        ** 0+12-22 09:06:33 ANSX     1411 145                    
+       SPECIAL ALARMS
+       CAT ALMSOURCE+TIME   MAIALM        ALMNBR(HEX)      REPCOD         
+           0+12-22 08:00:30 RATEIND2      9                  141
+       DIRECT ALARMS
+       CAT ALMSOURCE+TIME   DIRALM   NA   ALMNBR           REPCOD         
+        ** 0+12-22 08:34:31 AIS      0311 1                  4643
+
+       LAST REPORT          NO = 00011

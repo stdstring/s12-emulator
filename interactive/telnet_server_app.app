@@ -1,0 +1,1 @@
+{application, telnet_server_app, [{mod, {telnet_server_app,[6661, 10]}}]}.

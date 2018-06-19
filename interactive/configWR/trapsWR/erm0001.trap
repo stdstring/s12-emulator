@@ -1,0 +1,59 @@
+    SWA-ORJ-LINE TEST CM HD
+
+       EXE-REQ-MT                                                 NOT SUCCESSFUL
+       -------------------------------------------------------------------------
+       TESTING
+
+       TEST TYPE: FAST TEST ANALOGUE
+       DETAILED REPORT :
+
+       NA          = H'0527
+       NBR         = 232
+       AREA CODE   = 498
+       DN          = 4840999
+       DEVTYPE     = ALCN
+       SBLTYPE     = SLIF
+
+       TSEGMENT = 20                NBRLOOPS = 1                SEGMENT FAILED
+       MEASURED VALUES :
+                         POT DC              POT AC
+       A-GND         -   1,00  MVOLT         5,00  MVOLT
+       B-GND         -   1,00  MVOLT         5,00  MVOLT
+       A-B           -   8,00  MVOLT         2,00  MVOLT
+                           RES                 CAP
+       A-GND         >   5,00  MOHM         18,45  NFAR
+       B-GND         >   5,00  MOHM         18,18  NFAR
+       A-B           >   5,00  MOHM         11,58  NFAR
+
+       EXTERNAL FAULT
+
+       REF TO DIAL INPUT SEQ = 9642
+
+       REPORT FOLLOWS       NO = 04243
+
+    >$
+    ZHUKOVSK          2011-10-26  12:16:07  WE
+    099       0130/1012/0003
+    SEQ=9642.2011-10-26 00527  00000000   L1FUFA01   MS2DOC28
+    SWA-ORJ-LINE TEST CM HD
+
+       EXE-REQ-MT                                                 NOT SUCCESSFUL
+       -------------------------------------------------------------------------
+       SUBSCRIBER LINE TEST
+
+       TEST TYPE: FAST TEST ANALOGUE
+       FAST VERIFY (20)
+
+       UNIT UNDER TEST:
+       NA          = H'0527
+       NBR         = 232
+       AREA CODE   = 498
+       DN          = 4840999
+       SUBSCRIBER TYPE =  ANALOGUE
+
+       TEST COMMENTS:
+
+         RESULT= TEST NOT OK, ENVIRONMENT DIS-ESTABLISHED
+         FAULT LOCATION:  LEAKAGE BETWEEN A-B ON THE SUBSCRIBER LINE
+
+       LAST REPORT          NO = 00527

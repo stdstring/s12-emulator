@@ -1,0 +1,45 @@
+    TESTING
+       REQ MANUAL TEST                                          NOT SUCCESSFUL
+       -----------------------------------------------------------------------
+       NA      = H0002      NBR = 124        DN = 4942621238  
+       DEVTYPE = ALCB    
+       SBLTYPE = SLIF    
+       
+       TSEGMENT = 20                NBRLOOPS = 1                SEGMENT FAILED
+       MEASURED VALUES :  
+                         POT DC              POT AC
+       A-GND         -   2,50  MVOLT             3,50  MVOLT      
+       B-GND         -   2,00  MVOLT             3,50  MVOLT      
+       A-B               4,50  MVOLT             1,50  MVOLT      
+                           RES                 CAP
+       A-GND         >   5,00  MOHM             31,08  NFAR       
+       B-GND         >   5,00  MOHM             31,21  NFAR       
+       A-B               3,16  MOHM        !   444,74  NFAR  !    
+       
+       EXTERNAL FAULT  
+       
+       REF TO DIAL INPUT SEQ = 1615 
+
+       REPORT FOLLOWS       NO = 04243
+
+
+    AMTS KOSTROMA     2012-02-17  14:48:33  FR      
+    003  0005/000D/0011  
+    SEQ=1615.120217 00527  P7M503  
+    SUBSCRIBER LINE TEST
+       COMMAND ENTERED: EXE-REQ-MT                             NOT SUCCESSFUL
+       ----------------------------------------------------------------------
+       FAST VERIFY (20)
+       
+       UNIT UNDER TEST: 
+       EN    = H0002  &  124  
+       DN    = 4942621238  
+       SUBSCRIBER TYPE =  ANALOGUE
+       
+       TEST COMMENTS: 
+       
+         RESULT= TEST NOT OK ,    ENVIRONMENT      DIS-ESTABLISHED 
+         FAULT LOCATION:  LEAKAGE BETWEEN  A AND B ON THE   SUBSCRIBER LINE 
+
+
+       LAST REPORT          NO = 00527

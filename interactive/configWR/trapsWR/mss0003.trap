@@ -1,0 +1,16 @@
+    SWA-ORJ-SAD ITF+SPSRV
+
+       MODIFY-SINGLE-SUBSCR                                           SUCCESSFUL
+       -------------------------------------------------------------------------
+       AREACODE = 498
+       DN       = 4984840999
+
+       LCEID    = H'4850
+       NA       = H'527
+       LAN      = 232
+       SUBTYP   = ASUBS
+
+       SUBGRP   = SUBGNBR: SUBG04   ORGCH  : 000 ORGRTG : 000
+       ACB      = BADPFULL SET
+
+       LAST REPORT          NO = 06561

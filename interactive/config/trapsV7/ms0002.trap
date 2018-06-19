@@ -1,0 +1,65 @@
+    SUBSCRIBER ADMINISTRATION
+
+       MODIFY SUBSCR                                               SUCCESSFUL
+                                                           RESULT PART    1 +
+       ----------------------------------------------------------------------
+
+       PREVIOUS STATUS :
+
+       EN PHYS (LOG)            DN                 A/I  MSN   GDN
+       -----------------------  ----------------   ---  ----  ---------------
+       H'436  (H'6360) & 3      4957913330          A
+
+       BCAUTH :  SPEECH    AUD_3_1K
+
+       SERVICES :
+
+         SUBGRP   :  1
+         SUBSIG   :  CBSET
+         INHIBIT  :  CCBSREAT  CCNRREAT
+         COL      :  NORMSUB
+         INTCP    :  BADP
+         OCB      :  PERM      2
+         BLNGLEV  :  0
+         MAXCFWD  :  CFWDU     1
+                     CFWDFIXA  1
+                     CFWDBSUB  1
+                     CFWDNOR   1
+                     DEFLECT   1
+
+       REPORT FOLLOWS       NO = 04263
+    >$
+
+
+    ATS-791 EXT.      2011-10-26  11:43:26  WE
+    128  0130/0426/0003
+    SEQ=7882.111026 04263  P7M503
+    SUBSCRIBER ADMINISTRATION
+
+       MODIFY SUBSCR                                               SUCCESSFUL
+                                                          FINAL RESULT    2 -
+       ----------------------------------------------------------------------
+
+       ACTUAL STATUS :
+
+       EN PHYS (LOG)            DN                 A/I  MSN   GDN
+       -----------------------  ----------------   ---  ----  ---------------
+       H'436  (H'6360) & 3      4957913330          A
+
+       BCAUTH :  SPEECH    AUD_3_1K
+
+       SERVICES :
+
+         SUBGRP   :  1
+         SUBSIG   :  CBSET
+         INHIBIT  :  CCBSREAT  CCNRREAT
+         COL      :  NORMSUB
+         OCB      :  PERM      2
+         BLNGLEV  :  0
+         MAXCFWD  :  CFWDU     1
+                     CFWDFIXA  1
+                     CFWDBSUB  1
+                     CFWDNOR   1
+                     DEFLECT   1
+
+       LAST REPORT          NO = 04263

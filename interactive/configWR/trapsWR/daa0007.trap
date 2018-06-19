@@ -1,0 +1,27 @@
+    SWA-ALARM HANDLING                                              
+
+       DISPLAY-ACTIVE-ALARMS                                          SUCCESSFUL
+       -------------------------------------------------------------------------
+       WITH OPTION ALL     
+       ACTIVE ALMCAT = NORMAL 
+       ---------------------------------
+       
+       EXTERNAL SBL ALARMS
+       CAT  I SOURCE+ALMTIME   DIRALM   NA    ALMNBR             ERRT  ALM-QUAL
+       NURG   0+11-02 12:11:56 SLIX     1121  689                964    964  
+       NURG   0+11-08 06:43:35 SLIX     0431  677                964    964  
+       
+       RSU ALARMS
+       CAT  I SOURCE+ALMTIME   DIRALM   NA   ALMNBR  RITPOSIT   REPC  RSU-ID 
+       URG    0+11-08 06:52:53 RSULAHU  1131 2      94 C 04 33  4607  1     
+       NURG   0+11-08 06:52:42 RSURAIS  1131 3       3 A 07 33  4607        
+       
+       SUMMARY OF AVALANCHE ALARM TYPES
+       CAT  I SOURCE+ALMTIME   DIRALM                     REPC        
+       NURG   0+11-06 09:24:54 SLIP                       4962 
+       
+       AVALANCHE ALARMS 
+       CAT  I SOURCE+ALMTIME   DIRALM   NA    ALMNBR  RITPOSIT   REPC  DEN  STUP
+       NURG   1+11-06 09:24:54 SLIP     1101  1                  4643  153   0
+
+       LAST REPORT          NO = 00011

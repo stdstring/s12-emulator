@@ -1,0 +1,42 @@
+    ALARM CONTROL
+       DISPLAY-ACTIVE-ALARMS                                        SUCCESSFUL
+       ACTIVE ALARM CATEGORY = NORMAL 
+       -----------------------------------------------------------------------
+       SBL ALARMS
+       CAT ALMSOURCE+TIME   SBLALM   NA   SBLNBR  RACKID   ERRTYP ALM-QUAL
+       <<< 0+08-21 11:22:08 UDSC     021D 2       1 G         592
+       *** 0+12-09 14:02:13 CTLE     021D 1       1 G           5 PBCE    
+       <<< 0+08-22 08:43:55 DISC     021C 1       1 G           0
+       <<< 0+02-07 15:04:12 CTLE     8311 1       3 B         190 EDTCE   
+       <<< 0+08-22 08:27:00 DISC     021D 1       1 G           0
+        << 0+08-21 11:22:07 CEAL     021D 1       1 G         592
+        ** 0+12-08 14:01:40 CEAL     021C 1       1 G        1029
+        ** 0+12-09 11:25:21 ASST     021C 9      51 C           0
+        << 0+07-18 12:05:26 SLIF     0421 145     1 G            
+        ** 0+12-09 11:25:22 ASST     021C 10     51 H           0
+        ** 0+12-09 11:25:24 ASST     021C 13     51 D           0
+        ** 0+12-09 11:25:25 ASST     021C 14     51 E           0
+        << 0+08-02 09:18:59 ASST     000C 13     51 K            
+        << 0+12-16 10:56:50 SLIF     0101 552    67 B            
+        << 0+04-23 00:49:30 DTCL     8333 1       2 E            
+       SPECIAL ALARMS
+       CAT ALMSOURCE+TIME   MAIALM        ALMNBR(HEX)      REPCOD         
+           0+12-19 09:00:11 RATEIND1      1                  141
+       DIRECT ALARMS
+       CAT ALMSOURCE+TIME   DIRALM   NA   ALMNBR           REPCOD         
+       <<< 0+12-05 11:22:50 LIS      2003 1                  4643
+       <<< 0+12-06 13:56:37 LIS      2203 1                  4643
+        << 0+12-05 11:22:47 L2PRA    2003 1                  4643
+        << 0+12-03 08:57:51 AIS      2002 1                  4643
+        << 0+12-03 08:58:12 L2PRA    2002 1                  4643
+        << 0+02-18 11:38:44 AIS      8220 1                  4643
+        << 0+02-18 11:38:45 AIS      8102 1                  4643
+        << 0+12-05 11:22:29 RJA      2003 1                  4643
+        << 0+12-05 11:22:48 EER01    2003 1                  4643
+        << 0+12-06 13:56:54 L2PRA    2203 1                  4643
+        << 0+04-06 09:43:03 AIS      8113 1                  4643
+       AMAI ALARMS 
+       CAT ALMSOURCE+TIME   AMAIALM                  ERRTYP               
+       *** 0+12-09 11:25:23 ASST                          0
+
+       LAST REPORT          NO = 00011

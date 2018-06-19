@@ -1,0 +1,14 @@
+    SWA-ALARM HANDLING
+
+       DISPLAY-ACTIVE-ALARMS                                          SUCCESSFUL
+       -------------------------------------------------------------------------
+       WITH OPTION ALL
+       ACTIVE ALMCAT = NORMAL
+       ---------------------------------
+
+       EXTERNAL SBL ALARMS
+       CAT  I SOURCE+ALMTIME   DIRALM   NA    ALMNBR             ERRT  ALM-QUAL
+       NURG   0+10-19 00:58:34 SLIX     0621  594                964    964
+       NURG   0+10-19 01:16:51 SLIX     0130  191                964    964
+
+       LAST REPORT          NO = 00011

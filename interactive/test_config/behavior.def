@@ -1,0 +1,5 @@
+[
+{check_command, [{check_echo, 2, [{"result", "123"}]}, {check_echo, 1, [{"result", "666"}]}]},
+{update_command, [{update_fail_echo, 1, [{"code", "3.1415926"}]}, {update_success_echo, 2, []}, {update_fail_echo, 1, [{"code", "666"}]}]},
+{unknown_command, [{unknown_echo, 1, []}]}
+].

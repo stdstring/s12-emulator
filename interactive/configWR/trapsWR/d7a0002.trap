@@ -1,0 +1,24 @@
+    SWA-ORJ-MTP                                                     
+
+       DISPLAY-N7-ALARMS                                              SUCCESSFUL
+       -------------------------------------------------------------------------
+       OPERATOR INPUT:
+        OPTION   = LINK
+        LKSET    = ALL     
+       -----------------------------------------------------------------------
+       RESULT:  
+       
+         LKSET    LOGNET           DEST
+         -------- ---------------- -----------  
+         KOMSTAR  ZTU_2             23 59     
+         KONNECT  ZTU_2             23 34     
+       
+       ALARM CATEGORY: STATUS ALARM    
+       
+         LKSET    SLC  +-CCSMEN-+ +DTMEN---+ ALMTYP  ALMTIME  ALMDATE     
+                       PCE    TN  PCE    TN                               
+         -------- --- ------ ---  ------ --- ------- -------- ----------  
+         KOMSTAR    0 H'0024   3  H'0515  16 SURG    18:03:45 2011-12-20
+         KONNECT    0 H'1210   3  H'1133  16 SURG    19:39:38 2011-12-17
+
+       LAST REPORT          NO = 04314

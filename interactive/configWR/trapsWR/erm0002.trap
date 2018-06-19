@@ -1,0 +1,56 @@
+    SWA-ORJ-LINE TEST CM HD                                         
+
+       EXE-REQ-MT                                                     SUCCESSFUL
+       -------------------------------------------------------------------------
+       TESTING
+        
+       TEST TYPE: FAST TEST ANALOGUE   
+       DETAILED REPORT :
+       
+       NA          = H'1022
+       NBR         = 46   
+       AREA CODE   = 475   
+       DN          = 2750373         
+       DEVTYPE     = ALCB    
+       SBLTYPE     = SLIF
+       
+       TSEGMENT = 20                NBRLOOPS = 1                SEGMENT PASSED
+       MEASURED VALUES :  
+                         POT DC              POT AC                           
+       A-GND         -   3,00  MVOLT        29,00  MVOLT  
+       B-GND         -   2,50  MVOLT        26,50  MVOLT  
+       A-B           -   6,00  MVOLT         2,50  MVOLT  
+                           RES                 CAP                            
+       A-GND         >   5,00  MOHM         22,71  NFAR   
+       B-GND         >   5,00  MOHM         22,71  NFAR   
+       A-B           >   5,00  MOHM        879,20  NFAR   
+       
+       REF TO DIAL INPUT SEQ = 106  
+
+       REPORT FOLLOWS       NO = 04243
+
+    >$
+    TAMBOV     AMTS   2011-08-31  13:11:02  WE      
+    001       0130/0016/0003  
+    SEQ=0106.2011-08-31 00527  00000000   DXHLHA01   L2B76U50    
+    SWA-ORJ-LINE TEST CM HD                                         
+
+       EXE-REQ-MT                                                     SUCCESSFUL
+       -------------------------------------------------------------------------
+       SUBSCRIBER LINE TEST 
+       
+       TEST TYPE: FAST TEST ANALOGUE   
+       FAST VERIFY (20)                                  
+       
+       UNIT UNDER TEST: 
+       NA          = H'1022
+       NBR         = 46   
+       AREA CODE   = 475   
+       DN          = 2750373         
+       SUBSCRIBER TYPE =  ANALOGUE
+       
+       TEST COMMENTS: 
+       
+         RESULT= TEST EXECUTION OK, ENVIRONMENT DIS-ESTABLISHED              
+
+       LAST REPORT          NO = 00527

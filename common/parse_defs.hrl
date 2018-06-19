@@ -1,0 +1,1 @@
+-record(template_part, {part_type::('text' | 'param'), part_body::string()}).

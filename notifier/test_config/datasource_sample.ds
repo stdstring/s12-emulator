@@ -1,0 +1,4 @@
+xxx {number} xxx {result} xxx {timestamp(DD+MM-YY---hh:mm:ss:ms)} xxxxxx{delay(1,2)}
+yy {number} yyy {result}{delay(1,2)}
+zzzzzzzzzzzzzzz{delay(1,2)}
+www {number} {result} wwwwww {timestamp(DD+MM-YY---hh:mm:ss:ms)} ww {delay(1,2)}

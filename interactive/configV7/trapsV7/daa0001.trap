@@ -1,0 +1,9 @@
+    ALARM CONTROL
+       DISPLAY-ACTIVE-ALARMS                                        SUCCESSFUL
+       ACTIVE ALARM CATEGORY = NORMAL
+       -----------------------------------------------------------------------
+       SPECIAL ALARMS
+       CAT ALMSOURCE+TIME   MAIALM        ALMNBR(HEX)      REPCOD
+           0+10-26 08:00:53 RATEIND1      1                  141
+
+       LAST REPORT          NO = 00011

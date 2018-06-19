@@ -1,0 +1,4 @@
+check {number} is {result}; go to http:\\blablabla for more information
+{timestamp(DD+MM-YY---hh:mm:ss:ms)}
+{timestamp(DD+MM-YYYY---hh:mm:ss:ms)}\r\n
+{datasource("datasource_sample.ds",1)}

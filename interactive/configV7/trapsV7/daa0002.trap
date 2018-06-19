@@ -1,0 +1,12 @@
+    ALARM CONTROL
+       DISPLAY-ACTIVE-ALARMS                                        SUCCESSFUL
+       ACTIVE ALARM CATEGORY = NORMAL
+       -----------------------------------------------------------------------
+       SPECIAL ALARMS
+       CAT ALMSOURCE+TIME   MAIALM        ALMNBR(HEX)      REPCOD
+           0+10-25 08:00:51 RATEIND1      1                  141
+       RSU ALARMS
+       CAT ALMSOURCE+TIME   DIRALM   NA   ALMNBR  RITPOSIT REPCOD RSU-ID
+        ** 0+10-25 16:42:05 RSURLIS  1111   4     2 E 2 35   4607
+
+       LAST REPORT          NO = 00011

@@ -1,0 +1,28 @@
+    SUBSCRIBER ADMINISTRATION
+
+       DISPLAY SUBSCR                                              SUCCESSFUL
+       ----------------------------------------------------------------------
+
+       EN PHYS (LOG)            DN                 A/I  MSN   GDN
+       -----------------------  ----------------   ---  ----  ---------------
+       H'436  (H'6360) & 3      4957913330          A
+
+       BCAUTH :  SPEECH    AUD_3_1K
+
+       CHARGING METER :  2849
+
+       SERVICES :
+
+         SUBGRP   :  1
+         SUBSIG   :  CBSET
+         INHIBIT  :  CCBSREAT  CCNRREAT
+         COL      :  NORMSUB
+         OCB      :  PERM      2
+         BLNGLEV  :  0
+         MAXCFWD  :  CFWDU     1
+                     CFWDFIXA  1
+                     CFWDBSUB  1
+                     CFWDNOR   1
+                     DEFLECT   1
+
+       LAST REPORT          NO = 04263
